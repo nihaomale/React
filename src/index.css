@@ -6,3 +6,6 @@ body {
 .bgcolor{
   background-color: red;
 }
+.aaa {
+  border-bottom: 20px solid blue;
+}
